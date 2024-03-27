@@ -24,7 +24,7 @@ Enfocados en la composición de clases y objetos.
 6. Flyweight
 7. Proxy
 ### De comportamiento: 
-Especializados en determinar la forma en la que las clases y objetos interactuan entre si.
+Especializados en determinar la forma en la que las clases y objetos interactuan entre sí.
 1. Interpreter
 2. Template method
 3. Chain of responsability
